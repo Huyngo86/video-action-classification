@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+hmdb51_data/
+HMDB51.zip
+weights/
+*.pt
+*.pth
+*.ckpt
+__pycache__/
